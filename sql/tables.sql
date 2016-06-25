@@ -120,7 +120,7 @@ END;
 @@
 
 INSERT INTO member VALUES(1, "admin", "$2a$10$666c1f490573414398fc8urphq6JRlbPLxQb7Qq/93Ns6GCh8GyC.", 
-"Thomas Dang", "000-000-0000", "admin", "admin", "admin", "admin@gmail.com", "Admin", false);
+"admin", "000-000-0000", "admin", "admin", "admin", "admin@gmail.com", "Admin", false);
 
 
 	
