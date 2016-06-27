@@ -1,5 +1,5 @@
 # Financial Office Staff Manager
-TO RUN:
+##TO RUN:
 1. Install xampp
 2. Go to phpmyadmin 
 3. Create a database 
@@ -9,20 +9,20 @@ TO RUN:
 7. Go to "localhost" in browser to view web app
 8. Initial log in is admin/admin
 
-FUNCTIONALITIES:
+##FUNCTIONALITIES:
 Three roles: admin, agent, staff
-- Admins -
+######Admins
 1. Create user accounts for staff and agents
 2. Set up schedules for agents
 3. Delete user accounts and tasks
 4. Reset passwords
 5. Create tasks
 
-- Agents -
+######Agents
 1. Create tasks
 2. Monitor task completion
 
-- General -
+######General
 1. Leave comments on tasks
 2. Upload photos to tasks
 3. Receive alerts when task is updated (status update, photo upload, creation, etc)
