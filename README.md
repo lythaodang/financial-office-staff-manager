@@ -1,7 +1,4 @@
 # Financial Office Staff Manager
-##DESCRIPTION:
-This project was created for a financial office. It helps manage tasks on a daily basis. Agents will create tasks. Those tasks will be assigned to the next available staff with the least tasks.
-
 ##TO RUN:
 1. Install xampp
 2. Go to phpmyadmin 
